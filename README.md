@@ -4,6 +4,13 @@ The original code is written by @lan496 and taken from here:
 https://gist.github.com/lan496/3f60b6474750a6fd2b4237e820fbfea4
 
 
+## Installation
+```bash
+pip install -e git+https://github.com/resnant/crystalview.git#egg=crystalview
+
+```
+
+
 ## Usage
 
 ```python
